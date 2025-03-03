@@ -4,6 +4,9 @@ Admin Smart Plug é um painel administrativo desenvolvido em React com Vite, uti
 
 ## Espaço para Prints
 
+<img src="https://github.com/user-attachments/assets/d758c962-d863-4180-ba5b-41d7ae4c3132" width="500" />
+
+<img src="https://github.com/user-attachments/assets/dea1bacc-8730-4e42-bf42-e9c4957b25ea" width="500" />
 
 
 ## Tecnologias Utilizadas
