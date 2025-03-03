@@ -35,8 +35,8 @@ npm install
 Crie um arquivo `.env` na raiz do projeto e adicione as seguintes configurações:
 
 ```env
-VITE_API_BASE_URL=https://api.pegpagsmart24.com  # AJUSTAR DE ACORDO COM SUA API
-VITE_API_TOKEN_AUTHORIZATION="cGVnLXBhZy1hcGk6YmFzaWMtdG9rZW4="  # AJUSTAR DE ACORDO COM SUA API
+VITE_API_BASE_URL=  # AJUSTAR DE ACORDO COM SUA API
+VITE_API_TOKEN_AUTHORIZATION=""  # AJUSTAR DE ACORDO COM SUA API
 ```
 
 > **Nota:** Certifique-se de configurar corretamente a `VITE_API_BASE_URL` e a `VITE_API_TOKEN_AUTHORIZATION` antes de iniciar o projeto.
